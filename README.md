@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img1.pixhost.to/images/8892/643353297_1.png" width="200"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm KyDev's</h1>
 <p align="center">
   <b>Web & Bot Developer | Digital Business Enthusiast</b>
