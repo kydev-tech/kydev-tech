@@ -40,12 +40,10 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Languages-4%20Active-orange?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=F97316" />
+        <img src="https://img.shields.io/badge/Languages-2%20Active-orange?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=F97316" />
         <br/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Frameworks-4%20Mastered-red?style=for-the-badge&logo=framework&logoColor=white&labelColor=EF4444" />
@@ -56,11 +54,10 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Databases-3%20Types-cyan?style=for-the-badge&logo=database&logoColor=white&labelColor=06B6D4" />
+        <img src="https://img.shields.io/badge/Databases-2%20Types-cyan?style=for-the-badge&logo=database&logoColor=white&labelColor=06B6D4" />
         <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -80,7 +77,7 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%2014-gradient?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
         <br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=250&height=25&lines=Advanced+Animation;Framer+Motion;GSAP+Library" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=250&height=25&lines=TypeScript;Python;Advanced+Animation;Framer+Motion" />
       </td>
     </tr>
   </table>
