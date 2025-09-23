@@ -8,10 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app//?user=kydev-tech&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
 
 <div align="center">
