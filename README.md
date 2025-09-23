@@ -18,19 +18,77 @@
   <img width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 </div>
 
-```typescript
-const kyDev = {
-    pronouns: "He/Him",
-    location: "Indonesia 🇮🇩",
-    currentFocus: "Full-Stack Development",
-    languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-    frameworks: ["Next.js", "React", "Laravel", "Node.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Docker", "Git", "Figma", "Postman"],
-    currentlyLearning: "Next.js 14 & Advanced Animation",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge&logo=pronouns&logoColor=white&labelColor=4A90E2" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-green?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=34A853" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/Current%20Focus-Full--Stack%20Development-purple?style=for-the-badge&logo=code&logoColor=white&labelColor=8B5CF6" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Languages-4%20Active-orange?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=F97316" />
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Frameworks-4%20Mastered-red?style=for-the-badge&logo=framework&logoColor=white&labelColor=EF4444" />
+        <br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Databases-3%20Types-cyan?style=for-the-badge&logo=database&logoColor=white&labelColor=06B6D4" />
+        <br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Tools%20%26%20Workflow-4%20Daily-yellow?style=for-the-badge&logo=tools&logoColor=white&labelColor=F59E0B" />
+        <br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%2014-gradient?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
+        <br/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=250&height=25&lines=Advanced+Animation;Framer+Motion;GSAP+Library" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Fun%20Fact-I%20debug%20with%20console.log()%20😄-pink?style=for-the-badge&logo=javascript&logoColor=white&labelColor=EC4899" />
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> **Tech Arsenal**
 
